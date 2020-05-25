@@ -1,0 +1,89 @@
+/* Google Fonts */
+/* Roboto */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+* {
+  padding: 0px;
+  margin: 0px;
+  font-size: 'Roboto', sans-serif;
+}
+
+body {
+    background: whitesmoke;
+}
+
+/* Admin and User Login Page CSS Starts*/
+.header-content h1 {
+    margin-bottom: 5px;
+    text-align: center;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    color: black;
+}
+
+.login-form h1 {
+    color: #666;
+    text-align: center;
+    margin: 30px;
+    text-transform: uppercase;
+    font-weight: normal;
+    font-size: 30px;
+}
+
+.login-container {
+    max-width: 100vh;
+    height: 100%;
+}
+
+.login-form {
+    max-width: 100%;
+    width: 300px;
+    padding: 15px;
+    margin: auto;
+    color: black;
+}
+
+.form-control {
+    font-size: 15px;
+    min-width: 48px;
+    font-weight: 500;
+}
+
+.forgot-link {
+    font-size: 13px;
+}
+
+.forgot-link label {
+    margin-bottom: 0px;
+}
+
+.login-form a {
+    text-decoration: none;
+    color: #666;
+}
+
+.login-form a:hover {
+    color: gray;
+}
+
+.btn-custom {
+    background: black;
+    border-color: black;
+    color: whitesmoke;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.btn-custom:focus,
+.btn-custom:hover,
+.btn-custom:active,
+.btn-custom:active:focus {
+    background-color: whitesmoke;
+    color: black;
+}
+
+.btn-custom:focus {
+    box-shadow: 0 0 0 0.3rem rgba(0, 0, 0, 0.3);
+}
+/* Admin and User Login Page CSS Ends*/
