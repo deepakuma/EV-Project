@@ -6,7 +6,7 @@
 Website that tracks the college transit in real time.
 
 Project Mentor-
-Sh. Ashish Kulkarni, EE Dept.
+Prof. Uma Nangia, EE Dept.
 
 
 # Project Details:
